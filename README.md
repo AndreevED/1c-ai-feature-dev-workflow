@@ -182,7 +182,7 @@ color: blue
 
 ## Происхождение
 
-Адаптация воркфлоу [feature-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev) от Anthropic для платформы 1С:Предприятие. Оригинал также под MIT License (Copyright (c) 2024 Anthropic).
+Адаптация воркфлоу [feature-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev) от Anthropic для платформы 1С:Предприятие. Оригинал под Apache License 2.0.
 
 ## Автор
 
